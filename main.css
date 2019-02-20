@@ -32,7 +32,7 @@
 }
 
 .green {
-  border: 20px solid green; 
+  border: 20px solid #00bc3f; 
   display: inline-block;
   min-width: 20em;
   min-height: 25em;
