@@ -1,3 +1,80 @@
+#violet {
+  border: 20px solid #d300c9; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#indigo {
+  border: 20px solid #8a2be2; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#blue {
+  border: 20px solid #06f; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#green {
+  border: 20px solid #00bc3f; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#yellow {
+  border: 20px solid #ff0; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#orange {
+  border: 20px solid #ffa500; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#red {
+  border: 20px solid #f00; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
