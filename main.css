@@ -1,3 +1,14 @@
+.indigo {
+  border: 20px solid indigo; 
+  display: inline-block;
+  min-width: 20em;
+  min-height: 25em;
+  border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
 .blue {
   border: 20px solid blue; 
   display: inline-block;
